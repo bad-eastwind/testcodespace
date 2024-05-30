@@ -1,6 +1,3 @@
-# AutoClean 2022
-# For detailed documentation and usage guide, please visit the official GitHub Repo.
-# https://github.com/elisemercury/AutoClean
 
 import os
 import sys
